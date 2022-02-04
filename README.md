@@ -3,13 +3,6 @@ List of repos related to PII detection and anonymization
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-## Datasets
-
-1. [JobStack](https://github.com/kris927b/JobStack)
-1. [Text Anonymization Benchmark (TAB)](https://github.com/NorskRegnesentral/text-anonymisation-benchmark):  Open-source corpus for text anonymization. It comprises 1,268 English-language court cases from the European Court of Human Rights (ECHR).
-1. 
-
-
 ## Tools
 
 ### Tabular / structured
@@ -18,7 +11,6 @@ List of repos related to PII detection and anonymization
 1. [ARX](https://arx.deidentifier.org/)
 1. [k-Anonymity](https://github.com/Nuclearstar/K-Anonymity)
 1. [DICOM-anonymizer](https://github.com/KitwareMedical/dicom-anonymizer) 
-1. 
 
 ### Text
 
@@ -28,7 +20,7 @@ List of repos related to PII detection and anonymization
 ### Image
 
 1. [Dicom DEID](https://github.com/pydicom/DEID) 
-1. [Microsoft Presidio](https://github.com/microsoft/presidio)
+1. [Microsoft Presidio Image Redactor](https://github.com/microsoft/presidio/tree/main/presidio-image-redactor)
 
 
 
@@ -37,10 +29,18 @@ List of repos related to PII detection and anonymization
 ## ML models for PII detection and association
 
 ## Anonymization / Pseudonymization
-
+1. [piidetect](https://github.com/edwardcooper/piidetect): Detect and pseudoymize PII in text.
+2. [Presidio Anonymizer](https://github.com/microsoft/presidio/tree/main/presidio-anonymizer)
 
 ## Evaluation and analysis
 
 1. [Microsoft Presidio Evaluator](https://github.com/microsoft/presidio-research) 
 1. [Text Anonymization Benchmark (TAB)](https://github.com/NorskRegnesentral/text-anonymisation-benchmark):  Open-source corpus for text anonymization. It comprises 1,268 English-language court cases from the European Court of Human Rights (ECHR).
 1. [Nerevaluate](https://github.com/MantisAI/nervaluate): nervaluate is a python module for evaluating Named Entity Recognition (NER) models as defined in the SemEval 2013 - 9.1 task.
+
+## Datasets
+
+1. [JobStack](https://github.com/kris927b/JobStack)
+1. [Text Anonymization Benchmark (TAB)](https://github.com/NorskRegnesentral/text-anonymisation-benchmark):  Open-source corpus for text anonymization. It comprises 1,268 English-language court cases from the European Court of Human Rights (ECHR).
+1. [Email datasets](https://github.com/Mithileysh/Email-Datasets): Email datasets such as the Enron dataset and Hillary Clinton's emails dataset.
+
