@@ -3,6 +3,9 @@ List of repos related to PII detection and anonymization
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 ## Tools
 
 ### Tabular / structured
