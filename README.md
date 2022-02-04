@@ -23,10 +23,12 @@ List of repos related to PII detection and anonymization
 
 ### Tabular / structured
 
-1. [Tools for Health Data Aninymization](https://github.com/microsoft/Tools-for-Health-Data-Anonymization) 
 1. [ARX](https://arx.deidentifier.org/)
 1. [k-Anonymity](https://github.com/Nuclearstar/K-Anonymity)
 1. [DICOM-anonymizer](https://github.com/KitwareMedical/dicom-anonymizer) 
+1. [PII Catcher](https://github.com/tokern/piicatcher): PIICatcher is a scanner for PII and PHI information. It finds PII data in your databases and file systems and tracks critical data.
+1. [Tools for Health Data Aninymization](https://github.com/microsoft/Tools-for-Health-Data-Anonymization) 
+
 
 ### Text
 
