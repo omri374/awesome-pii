@@ -7,6 +7,17 @@ List of repos related to PII detection and anonymization
 
 ## Tools
 
-## ML models
+### Tabular
+
+### Text
+
+### Image
+
+### Other
+
+## ML models for PII detection and association
+
+## Anonymization / Pseudonymization
+
 
 ## Evaluation and analysis
