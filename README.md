@@ -3,8 +3,21 @@ List of repos related to PII detection and anonymization
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Tools](#tools)
+  - [Tabular / structured](#tabular--structured)
+  - [Text](#text)
+  - [Image](#image)
+  - [Other](#other)
+- [ML models for PII detection and association](#ml-models-for-pii-detection-and-association)
+- [Anonymization / Pseudonymization](#anonymization--pseudonymization)
+- [Evaluation and analysis](#evaluation-and-analysis)
+- [Datasets](#datasets)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Tools
 
