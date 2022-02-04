@@ -7,9 +7,12 @@ List of repos related to PII detection and anonymization
 
 ## Tools
 
-### Tabular
+### Tabular / structured
 
 ### Text
+
+
+[Microsoft Presidio](https://github.com/microsoft/presidio)
 
 ### Image
 
@@ -21,3 +24,5 @@ List of repos related to PII detection and anonymization
 
 
 ## Evaluation and analysis
+
+[Microsoft Presidio Evaluator](https://github.com/microsoft/presidio-research) 
