@@ -1,9 +1,14 @@
 # awesome-pii
 List of repos related to PII detection and anonymization
 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 ## Datasets
 
 1. [JobStack](https://github.com/kris927b/JobStack)
+1. [Text Anonymization Benchmark (TAB)](https://github.com/NorskRegnesentral/text-anonymisation-benchmark):  Open-source corpus for text anonymization. It comprises 1,268 English-language court cases from the European Court of Human Rights (ECHR).
+1. 
+
 
 ## Tools
 
@@ -17,7 +22,8 @@ List of repos related to PII detection and anonymization
 
 ### Text
 
-1. [Microsoft Presidio](https://github.com/microsoft/presidio)
+*  [Microsoft Presidio](https://github.com/microsoft/presidio)
+*  [Deduce](https://github.com/vmenger/deduce): de-identification method for Dutch medical text
 
 ### Image
 
