@@ -43,10 +43,12 @@ List of repos related to PII detection and anonymization
 ### Other
 
 ## ML models for PII detection and association
+1. [BERT transfer learning](https://github.com/arnobiomorelix/berttransferlearning)
+
 
 ## Anonymization / Pseudonymization
 1. [piidetect](https://github.com/edwardcooper/piidetect): Detect and pseudoymize PII in text.
-2. [Presidio Anonymizer](https://github.com/microsoft/presidio/tree/main/presidio-anonymizer)
+1. [Presidio Anonymizer](https://github.com/microsoft/presidio/tree/main/presidio-anonymizer)
 
 ## Evaluation and analysis
 
