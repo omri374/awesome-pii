@@ -34,6 +34,7 @@ List of repos related to PII detection and anonymization
 
 *  [Microsoft Presidio](https://github.com/microsoft/presidio)
 *  [Deduce](https://github.com/vmenger/deduce): de-identification method for Dutch medical text
+*  [pii-filter](https://github.com/HabaneroCake/pii-filter): A library for detecting, parsing, and removing personally identifiable information from strings and objects. (experimental)
 
 ### Image
 
