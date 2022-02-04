@@ -42,4 +42,5 @@ List of repos related to PII detection and anonymization
 ## Evaluation and analysis
 
 1. [Microsoft Presidio Evaluator](https://github.com/microsoft/presidio-research) 
-1. 
+1. [Text Anonymization Benchmark (TAB)](https://github.com/NorskRegnesentral/text-anonymisation-benchmark):  Open-source corpus for text anonymization. It comprises 1,268 English-language court cases from the European Court of Human Rights (ECHR).
+1. [Nerevaluate](https://github.com/MantisAI/nervaluate): nervaluate is a python module for evaluating Named Entity Recognition (NER) models as defined in the SemEval 2013 - 9.1 task.
