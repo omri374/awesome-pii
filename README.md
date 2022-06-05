@@ -66,3 +66,4 @@ List of repos related to PII detection and anonymization
 1. [Text Anonymization Benchmark (TAB)](https://github.com/NorskRegnesentral/text-anonymisation-benchmark):  Open-source corpus for text anonymization. It comprises 1,268 English-language court cases from the European Court of Human Rights (ECHR).
 1. [Email datasets](https://github.com/Mithileysh/Email-Datasets): Email datasets such as the Enron dataset and Hillary Clinton's emails dataset.
 1. [Name Dataset](https://github.com/philipperemy/name-dataset): Provides information about names: Popularity (rank), country (105 countries are supported) and gender.
+1. [A DICOM dataset for evaluation of medical image de-identification (Pseudo-PHI-DICOM-Data)](https://wiki.cancerimagingarchive.net/plugins/servlet/mobile?contentId=80969777#content/view/80969777): A DICOM dataset that can be used to evaluate the performance of de-identification algorithms.
